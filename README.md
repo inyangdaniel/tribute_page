@@ -1,1 +1,1 @@
-live link -- https://github.com/inyangdaniel/tribute_page
+live link -- https://inyangdaniel.github.io/tribute_page/
